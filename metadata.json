@@ -1,0 +1,6 @@
+{
+  "name": "USTP Balubal ICT Management System",
+  "description": "A comprehensive web-based platform for managing ICT service requests, job orders, inventory, facility bookings, and incidents at USTP Balubal Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
